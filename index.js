@@ -127,7 +127,7 @@ function gameLoop(pacman, ghosts) {
     }
 
     //show the score
-    scoreTable.innerHTML = score;
+    scoreTable.innerHTML = `<span class="nes-text is-primary">${score}</span>`;
 }
 
 function startGame() {
