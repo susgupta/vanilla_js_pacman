@@ -27,6 +27,6 @@ npm start
 
 The application was publised using [GitHub Pages](https://pages.github.com/). The public 'dist' folder is root of hosted application
 
-Here is link to view the application:
+Here is link to play the game:
 
-TBD...
+[Sushil G PacMan JS Game](https://susgupta.github.io/vanilla_js_pacman/)
